@@ -8,23 +8,23 @@
 - [VERSIONING](#versioning)
 
 
-## Project Title
+## *Project Title*
 
 
-## Description
+## *Description*
 
 
-## How to Run Program 
+## *How to Run Program* 
 
 
-## Files Used 
-
-
-
-## Additional Documentation
+## *Files Used*
 
 
 
-## Versioning
+## *Additional Documentation*
+
+
+
+## *Versioning*
 
 
