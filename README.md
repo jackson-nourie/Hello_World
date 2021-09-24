@@ -1,14 +1,11 @@
 # Hello_World
 
-#Project Title
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
+- [HOW TO RUN PROGRAM](#How-to-run-program)
+- [FILES USED](#files-used)
+- [ADDITIONAL DOCUMENTATION](#additional-documentation)
+- [VERSIONING](#versioning)
 
-#Description
-
-#How to run the Program
-
-#Files Used 
-
-#Additional Documentation
-
-#Versioning
+##Project Title
 
