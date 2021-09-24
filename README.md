@@ -28,3 +28,5 @@
 ## *Versioning*
 
 
+[linked-in link] (https://www.linkedin.com/in/jackson-nourie/)
+[Handshake link] (https://app.joinhandshake.com/users/12391135)
